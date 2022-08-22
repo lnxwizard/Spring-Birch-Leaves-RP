@@ -1,0 +1,43 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"AlperAkca79"
+		],
+    "license": "Apache 2.0",
+		"generated_with": {
+			"bridge": [
+				"2.3.1"
+			],
+			"dash": [
+				"0.9.26"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			16,
+			100
+		],
+		"uuid": "2c64cc45-66fa-4128-af32-d09ea3875b1a",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "38da65bd-4265-4983-ad09-1bf1215e50ef",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
