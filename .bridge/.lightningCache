@@ -1,0 +1,13 @@
+$formatVersion: 1
+#clientManifest
+projects/Spring Birch Leaves/RP/manifest.json|1661166354548|{"uuid":["2c64cc45-66fa-4128-af32-d09ea3875b1a"]}
+#unknown
+projects/Spring Birch Leaves/RP/pack_icon.png|1661168098152
+#clientLang
+projects/Spring Birch Leaves/RP/texts/en_US.lang|1661166459329|{"actionText":[]}
+projects/Spring Birch Leaves/RP/texts/en_GB.lang|1661166456628|{"actionText":[]}
+projects/Spring Birch Leaves/RP/texts/tr_TR.lang|1661166658942|{"actionText":[]}
+#langDef
+projects/Spring Birch Leaves/RP/texts/languages.json|1661166697396
+#texture
+projects/Spring Birch Leaves/RP/textures/blocks/leaves_birch.tga|1661166563912
