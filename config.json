@@ -1,0 +1,44 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Spring Birch Leaves",
+	"namespace": "spring",
+	"authors": [
+		"AlperAkca79"
+	],
+	"targetVersion": "1.16.100",
+	"description": "Made By AlperAkca79",
+	"experimentalGameplay": {
+		"holidayCreatorFeatures": false,
+		"creationOfCustomBiomes": false,
+		"upcomingCreatorFeatures": false,
+		"enableGameTestFramework": false,
+		"experimentalMolangFeatures": false,
+		"educationEdition": false
+	},
+	"bdsProject": false,
+	"packs": {
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Spring Birch Leaves"
+				}
+			]
+		]
+	}
+}
